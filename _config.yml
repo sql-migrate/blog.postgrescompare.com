@@ -8,7 +8,7 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://daattali.github.io/beautiful-jekyll"
+url: ""
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
@@ -27,10 +27,6 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Featured users: "featured-users"
-    - Project page: "https://github.com/daattali/beautiful-jekyll#readme"
   About me: "aboutme"
 
 # --- Footer options --- #
