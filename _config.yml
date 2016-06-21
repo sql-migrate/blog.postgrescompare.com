@@ -27,7 +27,7 @@ avatar: "/img/avatar-icon.png"
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Postgres Compare: "www.postgrescompare.com"
+  Postgres Compare: "http://www.postgrescompare.com"
   About me: "aboutme"
 
 # --- Footer options --- #
