@@ -36,7 +36,7 @@ navbar-links:
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Neil Anderson
-  email: "neil.t.anderson@gmail.com"
+  email: "neil@postgrescompare.com"
   twitter: neilAnders0n
 
 # Select which links to show in the footer
