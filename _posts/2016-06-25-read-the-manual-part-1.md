@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Read the manual: Part 1
+title: Read the manual, Part 1
 ---
