@@ -1,4 +1,4 @@
 ---
 layout: post
-title: The guiding principles behind Postgres Compare
+title: Read the manual: Part 1
 ---
