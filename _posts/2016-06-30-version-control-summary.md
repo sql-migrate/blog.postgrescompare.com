@@ -8,7 +8,8 @@ There was a question recently on pgsql-general about [Stored procedure version c
 ```
 Elsewhere, somebody was asking how people implemented version control for stored procedures on (MS) SQL Server.
 
-The consensus was that this is probably best managed by using scripts or command files to generate stored procedures etc., but does anybody have any comment on that from the POV of PostgreSQL?```
+The consensus was that this is probably best managed by using scripts or command files to generate stored procedures etc., but does anybody have any comment on that from the POV of PostgreSQL?
+```
 
 to which I posted the following response as a summary of the options available.
 
