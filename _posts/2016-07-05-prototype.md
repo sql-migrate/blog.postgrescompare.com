@@ -9,6 +9,8 @@ I'm trying to create something different with Postgres Compare. Functional, fast
 
 To work through these and so many other questions I've been building a prototype UI so I can get a feel for where some interactions might breakdown and also what the core engine would have to be capable of to make my dream application. I used [Electron](http://electron.atom.io) and a wonderful course from [Rob Conery](https://www.twitter.com/robconery) at [Pluralsight](https://app.pluralsight.com/library/courses/electron-playbook/table-of-contents) to produce the skeleton app linked below.
 
+![alt text](img/pg_compare.png "Postgres Compare prototype screenshot")
+
 The process has really helped me work through the flows involved in [Postgres Compare](http://www.postgrescompare.com), but also aspects of the application's 'personality'. The colours, the icons, the animations. I want this app to be one of those that people love and being able to get my hands dirty with a prototype has helped me focus on the guiding principles I want it to live by!
 
 * [Win64](https://drive.google.com/open?id=0B3SuQPH12XXtdUpyUmVnSDVROU0)
